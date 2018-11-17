@@ -7,12 +7,15 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
     "url": "git@github-kidlike:syzer/codeRetreat-2018-with-stephanos.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
 }
