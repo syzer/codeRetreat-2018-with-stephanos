@@ -16,5 +16,6 @@ initialState (seed)
 # Rules for that round:
 - strong style
 - TDD
-- no primitives
+- no primitives in api
+- no booleans anywhere
 - no arrays
