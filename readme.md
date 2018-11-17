@@ -4,6 +4,12 @@ Point
 Cell
 Grid
 alive
+neighbors
+nextGeneration
+reproduction
+overpopulation
+underpopulation
+initialState (seed)
 
 
 # Rules for that round:
