@@ -3,6 +3,7 @@
 Point
 Cell
 Grid
+
 alive
 neighbors
 nextGeneration
